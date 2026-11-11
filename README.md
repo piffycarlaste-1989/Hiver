@@ -203,4 +203,4 @@ This repository serves as the official landing page for Hiver. The software is d
 **Get the most recent version of Hiver today!**
 
 ---
-**Last updated:** 2026-11-10 23:00:12 UTC
+**Last updated:** 2026-11-11 05:29:10 UTC
